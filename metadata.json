@@ -1,0 +1,6 @@
+{
+  "name": "Mundo do Passeio",
+  "description": "Plataforma Mundo do Passeio: agendamento de passeios de cães com passeadores verificados por país e estado, cadastro completo com geração de PDF e envio para o WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
